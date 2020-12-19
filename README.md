@@ -38,5 +38,6 @@ segment joining the points p 0 and p 1.
 **In-class lab exercise**
 * Neural Networks: Hyperparameter Tuning and training
 
-* Class lecture slides
-* Review questions
+
+Class lecture slides
+
