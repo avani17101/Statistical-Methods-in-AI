@@ -1,6 +1,8 @@
-# SMAI-Assignments
-Statistical Methods in AI: course monsoon 2020, IIIT Hyderabad.
-Note: All codes have been implemented from scrath. Some use the functions of tutorials provided as part of course. 
+# Statistical Methods in AI
+
+Assignments/HW's done in course Statistical Methods in AI, monsoon 2020 at IIIT Hyderabad.
+
+Note: All codes have been implemented from scratch. Some use the functions of tutorials provided as part of course. 
 
 ## Contents
 **HW 1** 
