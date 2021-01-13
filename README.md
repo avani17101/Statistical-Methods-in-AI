@@ -1,6 +1,7 @@
 # Statistical Methods in AI
 
 Assignments/HW's done in course Statistical Methods in AI, monsoon 2020 at IIIT Hyderabad.
+Instructor: CV Jawahar.
 
 Note: All codes have been implemented from scratch. Some use the functions of tutorials provided as part of course. 
 
